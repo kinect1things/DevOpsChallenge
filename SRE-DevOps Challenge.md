@@ -11,9 +11,9 @@
 > Allow at least 3 hours to complete each part.
 >Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
 
-Rules
-Complete the challenge on your own.
-Referencing online resources is expected. You should comment with a reference when you do.
+### Rules
+* Complete the challenge on your own.
+* > Referencing online resources is expected. You should comment with a reference when you do.
 You are encouraged to ask us clarifying questions. (Your recruiter will forward the questions, so expect delays in response.)
 Note any deviations from the specification.
 Be prepared to talk about the challenge in later interview rounds.
