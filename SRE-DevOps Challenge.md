@@ -1,14 +1,15 @@
 # SRE/DevOps Challenge
 
 ## Overview
-This challenge will test the following skills:
-Kubernetes orchestration
-CI systems
-REST API
-Scripting
-Monitoring
-Allow at least 3 hours to complete each part.
-Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
+
+### This challenge will test the following skills:
+* Kubernetes orchestration
+* CI systems
+* REST API
+* Scripting
+* Monitoring
+> Allow at least 3 hours to complete each part.
+>Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
 
 Rules
 Complete the challenge on your own.
