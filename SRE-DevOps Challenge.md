@@ -23,19 +23,18 @@
 > Provide a single archive of all challenge files:
 
 ### Use the following layout:
-* part-a/
-* k8s-manifests/
-* manifests for Rocket Chat, GitLab
-* webhook-app/
-* all files pertaining to the GitLab webhook 🡪 Rocket Chat message application
-* README.md
-
-* part-b/
-* prometheus-grafana-values.yaml
-* webhook-app-service-monitor.yaml
-* webhook-app-dashboard.yaml
-* prometheus-metrics-adaptor(-values).yaml
-* README.md
+> part-a/
+> k8s-manifests/
+> manifests for Rocket Chat, GitLab
+> webhook-app/
+> all files pertaining to the GitLab webhook 🡪 Rocket Chat message application
+> README.md
+> part-b/
+> prometheus-grafana-values.yaml
+> webhook-app-service-monitor.yaml
+> webhook-app-dashboard.yaml
+> prometheus-metrics-adaptor(-values).yaml
+> README.md
 
 Each part’s README should include:
 Instructions on how to run each part of the challenge. 
