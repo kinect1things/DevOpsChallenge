@@ -12,7 +12,7 @@
 
     ##### Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
 
-### Rules
+## Rules
 * Complete the challenge on your own. 
 * Referencing online resources is expected. 
 * You should comment with a reference when you do.
