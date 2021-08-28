@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This challenge will test the following skills:
+#### This challenge will test the following skills:
 * Kubernetes orchestration
 * CI systems
 * REST API
@@ -44,8 +44,8 @@ README.md
 * Note any caveats and potential failure scenarios.
 * Note what you would do differently in a production environment.
 
-## Part A, GitLab and Webhooks
-### Create and deploy k8s manifests that contain the following applications using publicly available images from Docker Hub:
+### Part A, GitLab and Webhooks
+#### Create and deploy k8s manifests that contain the following applications using publicly available images from Docker Hub:
 * Rocket Chat
 * GitLab
     > do not use a manifest package framework (e.g. Helm) for this step
@@ -53,8 +53,8 @@ README.md
 * Write a Dockerfile and k8s manifest(s) for that application and configure GitLab CI such that it builds and pushes the image to the bundled GitLab container registry, then deploys to your k8s cluster.
 * Configure GitLab CI to send a webhook to your deployed application, triggered by commits to the application’s GitLab project.
 
-## Part B, Monitoring and Custom Metrics
-Deploy the Prometheus and Grafana to your k8s cluster using the kube-prometheus-stack Helm chart, saving settings to a `values.yaml`.
+### Part B, Monitoring and Custom Metrics
+#### Deploy the Prometheus and Grafana to your k8s cluster using the kube-prometheus-stack Helm chart, saving settings to a `values.yaml`.
 Add a Prometheus metrics endpoint to your REST API that exposes a count of received webhooks.
 Configure Prometheus to scrape that endpoint using ServiceMonitor, and create a provisioned Grafana dashboard for the metric.
 Create another custom metric for your REST API that exposes a count of in-flight requests.
