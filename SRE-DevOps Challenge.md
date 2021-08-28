@@ -20,9 +20,9 @@
 * Be prepared to talk about the challenge to other people
 
 ## Deliverables
-> Provide a single archive of all challenge files:
+### Provide a single archive of all challenge files:
 
-### Use the following layout:
+#### Use the following layout:
 part-a/
 k8s-manifests/
 manifests for Rocket Chat, GitLab
