@@ -9,30 +9,34 @@
 * Scripting
 * Monitoring
 > Allow at least 3 hours to complete each part.
->Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
+> Do not be discouraged if you are unable to complete aspects of the challenge—it is designed to test all levels of ability.
 
 ### Rules
-* Complete the challenge on your own.
-* > Referencing online resources is expected. You should comment with a reference when you do.
-You are encouraged to ask us clarifying questions. (Your recruiter will forward the questions, so expect delays in response.)
-Note any deviations from the specification.
-Be prepared to talk about the challenge in later interview rounds.
+* Complete the challenge on your own. 
+* Referencing online resources is expected. 
+* You should comment with a reference when you do.
+* You are encouraged to ask the world for clarifying questions.
+* Note any deviations from the specification.
+* Be prepared to talk about the challenge to other people
 
-Deliverables
-Provide a single archive of all challenge files.
-Use the following layout:
-part-a/
-k8s-manifests/
-manifests for Rocket Chat, GitLab
-webhook-app/
-all files pertaining to the GitLab webhook 🡪 Rocket Chat message application
-README.md
-part-b/
-prometheus-grafana-values.yaml
-webhook-app-service-monitor.yaml
-webhook-app-dashboard.yaml
-prometheus-metrics-adaptor(-values).yaml
-README.md
+## Deliverables
+> Provide a single archive of all challenge files:
+
+### Use the following layout:
+* part-a/
+* k8s-manifests/
+* manifests for Rocket Chat, GitLab
+* webhook-app/
+* all files pertaining to the GitLab webhook 🡪 Rocket Chat message application
+* README.md
+
+* part-b/
+* prometheus-grafana-values.yaml
+* webhook-app-service-monitor.yaml
+* webhook-app-dashboard.yaml
+* prometheus-metrics-adaptor(-values).yaml
+* README.md
+
 Each part’s README should include:
 Instructions on how to run each part of the challenge. 
 Brief description of rationale behind each tool/language/framework of choice.
