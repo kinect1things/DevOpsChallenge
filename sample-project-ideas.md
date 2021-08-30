@@ -11,6 +11,6 @@
 ## Python
 
 ```
-* https://medium.com/nerd-for-tech/lets-play-game-of-life-with-python-ec3e5ae00e6
+* ![GoLPi](https://medium.com/nerd-for-tech/lets-play-game-of-life-with-python-ec3e5ae00e6)
 
 ```
