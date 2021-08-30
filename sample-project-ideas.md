@@ -6,6 +6,8 @@
 
 * ![DevOps Workflow](https://github.com/yankils/Simple-DevOps-Project)
 
+* ![Basic Azure DevOps Walkthrough](https://andrewlock.net/building-an-open-source-github-project-using-azure-devops/)
+
 
 ## Python
 
