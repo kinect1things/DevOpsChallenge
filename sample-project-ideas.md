@@ -2,11 +2,11 @@
 
 ## DevOps
 
-* ![AzDvOp](https://github.com/microsoft/devops-project-samples)
+* ![Azure DevOps Github Samples](https://github.com/microsoft/devops-project-samples)
 
-* https://github.com/yankils/Simple-DevOps-Project
+* ![DevOps Workflow](https://github.com/yankils/Simple-DevOps-Project)
 
 
 ## Python
 
-* https://medium.com/nerd-for-tech/lets-play-game-of-life-with-python-ec3e5ae00e6
+* ![Game Of life Python](https://medium.com/nerd-for-tech/lets-play-game-of-life-with-python-ec3e5ae00e6)
